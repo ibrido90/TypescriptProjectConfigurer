@@ -1,0 +1,23 @@
+{
+  "name": "tsconfig",
+  "version": "0.1.5",
+  "description": "",
+  "main": "tsconfigurer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {"tsconfig":"./tsconfigurer.cmd"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrido90/TypescriptProjectConfigurer.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": {"name":"Roberto Mapelli","email": "roberto.mapelli90@gmail.com"},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrido90/TypescriptProjectConfigurer/issues"
+  },
+  "homepage": "https://github.com/ibrido90/TypescriptProjectConfigurer#readme"
+}
