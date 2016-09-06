@@ -1,1 +1,1 @@
-node tsconfigurer.js
+node ./node_modules/tsconfig/tsconfigurer.js
