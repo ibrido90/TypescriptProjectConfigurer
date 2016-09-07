@@ -1,1 +1,1 @@
-node tsconfigurer.js
+@node %~dp0tsconfigurer.js %CD%
