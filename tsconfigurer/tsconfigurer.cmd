@@ -1,1 +1,1 @@
-node ./node_modules/tsconfig/tsconfigurer.js
+@node %~dp0tsconfigurer.js %CD%
