@@ -1,12 +1,12 @@
 {
-  "name": "tsconfig",
-  "version": "0.1.5",
+  "name": "tspconfig",
+  "version": "0.2.0",
   "description": "",
-  "main": "tsconfigurer.js",
+  "main": "tspconfigurer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": {"tsconfig":"./tsconfigurer.cmd"},
+  "bin": {"tspconfig":"./tspconfig.cmd"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ibrido90/TypescriptProjectConfigurer.git"
